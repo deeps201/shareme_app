@@ -23,7 +23,7 @@
 
       sanity start
       
-[LocalHost](http://localhost:3000) 
+LocalHost===>(http://localhost:3000) 
    
 
 ## React App
